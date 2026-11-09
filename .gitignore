@@ -1,0 +1,10 @@
+.env
+.env.*
+
+.idea/
+.vscode/
+node_modules/
+docs/
+unlist/
+
+*.log
