@@ -1,0 +1,38 @@
+:root {
+    --white: #fff;
+    --white-2: #f4f4f4;
+    --white-3: #f9f9f9;
+    --white-4: #ebebeb;
+    --white-5: #b9bcc2;
+    --white-6: #6b7280;
+
+    --black: #000;
+    --black-1: #111;
+    --black-2: #141414;
+
+    --bg: var(--white-2);
+
+    --card: var(--white-4);
+    --card-2: var(--white);
+    
+    --ink: var(--black-1);
+    --muted: var(--white-6);
+    --faint: var(--white-5);
+    --dark: var(--black-2);
+    --on-dark: var(--white-2);
+    
+    --line: rgba(0, 0, 0, .08);
+    
+    --r-lg: 28px;
+    --r-md: 20px;
+    --r-pill: 999px;
+    
+    --gap: 12px;
+    
+    --wrap: 1180px;
+    
+    --pad: clamp(16px, 4vw, 32px);
+    
+    --font: 'Inter Tight', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    --ease: cubic-bezier(.2, .7, .2, 1);
+}
